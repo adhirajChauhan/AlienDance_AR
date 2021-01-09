@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{d3b8a74b-eb03-773c-cd85-49fcd9cfa4af}</ProjectGuid>
+    <ProjectGuid>{1963bb5a-c9e5-3cb7-f59c-b6ea243a2f6a}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>UnityEngine.TestRunner</AssemblyName>
@@ -338,7 +338,7 @@
         <HintPath>C:/Program Files/2020.1.17f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-        <HintPath>D:/unity projects/ARFoundationTutorial/Library/PackageCache/com.unity.ext.nunit@1.0.5/net35/unity-custom/nunit.framework.dll</HintPath>
+        <HintPath>D:/unity projects/AlienDance_ARFoundation/Library/PackageCache/com.unity.ext.nunit@1.0.5/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
         <HintPath>C:/Program Files/2020.1.17f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>

@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 1007
   m_ShowMode: 4
-  m_Title: Hierarchy
+  m_Title: Project
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
@@ -148,7 +148,7 @@ MonoBehaviour:
   m_MinSize: {x: 201, y: 342}
   m_MaxSize: {x: 4001, y: 8042}
   vertical: 1
-  controlID: 16
+  controlID: 121
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -228,7 +228,7 @@ MonoBehaviour:
   m_MinSize: {x: 232, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 39
+  controlID: 60
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -457,7 +457,7 @@ MonoBehaviour:
     m_VAllowExceedBaseRangeMax: 1
     m_ScaleWithWindow: 0
     m_HSlider: 0
-    m_VSlider: 0
+    m_VSlider: 1
     m_IgnoreScrollWheelUntilClicked: 0
     m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
@@ -470,7 +470,7 @@ MonoBehaviour:
       y: 21
       width: 1327
       height: 379
-    m_Scale: {x: 0.17546296, y: 0.17546296}
+    m_Scale: {x: 0.18518518, y: 0.18518518}
     m_Translation: {x: 663.5, y: 189.5}
     m_MarginLeft: 0
     m_MarginRight: 0
@@ -478,12 +478,12 @@ MonoBehaviour:
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -3781.4248
-      y: -1080
-      width: 7562.8496
-      height: 2160
+      x: -3582.9001
+      y: -1023.30005
+      width: 7165.8003
+      height: 2046.6001
     m_MinimalGUI: 1
-  m_defaultScale: 0.17546296
+  m_defaultScale: 0.18518518
   m_LastWindowPixelSize: {x: 1327, y: 400}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
@@ -527,9 +527,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.014677871, y: 0.11302616, z: 0.048820004}
+    m_Target: {x: -0.0004778728, y: 0.1501521, z: 0}
     speed: 2
-    m_Value: {x: -0.014677871, y: 0.11302616, z: 0.048820004}
+    m_Value: {x: -0.0004778728, y: 0.1501521, z: 0}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -576,13 +576,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.2763008, y: -0.70772636, z: 0.36200553, w: 0.5401648}
+    m_Target: {x: 0.11747746, y: -0.20343675, z: 0.024592781, w: 0.9717283}
     speed: 2
-    m_Value: {x: 0.2817216, y: -0.7009196, z: 0.36118093, w: 0.5467112}
+    m_Value: {x: 0.11736278, y: -0.20780244, z: 0.025120575, w: 0.97077966}
   m_Size:
-    m_Target: 0.14641333
+    m_Target: 0.2387562
     speed: 2
-    m_Value: -0.15358669
+    m_Value: 0.23875648
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -662,9 +662,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: 183c0000
       m_LastClickedID: 0
-      m_ExpandedIDs: 089dffff269dffff289dffff02b2ffff20b2ffff3ab3ffff5efbffffba390000
+      m_ExpandedIDs: 5efbffff683a0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -726,20 +726,21 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SkipHidden: 0
     m_SearchArea: 1
-    m_Folders: []
+    m_Folders:
+    - Assets/Lean
     m_Globs: []
   m_ViewMode: 0
   m_StartGridSize: 64
   m_LastFolders: []
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: D:\unity projects\ARFoundationTutorial
+  m_LastProjectPath: D:\unity projects\AlienDance_ARFoundation
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 8e380000
     m_LastClickedID: 14478
-    m_ExpandedIDs: 00000000383b00003a3b00003c3b00003e3b0000403b0000
+    m_ExpandedIDs: 00000000e63b0000e83b0000ea3b0000ec3b0000ee3b0000f03b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -767,7 +768,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff00000000383b00003c3b00006e3b0000e83e0000a6460000aa460000
+    m_ExpandedIDs: ffffffff00000000e63b0000ea3b0000ec3b0000ee3b0000f03b0000f43b0000183c00001a3c0000303c0000323c0000ffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 

@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{db7d8e8b-7622-f62e-e89d-ab12b78ba71c}</ProjectGuid>
+    <ProjectGuid>{8e337ce8-4241-4234-5599-86a52156c882}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.XR.ARKit</AssemblyName>
@@ -264,7 +264,7 @@
         <HintPath>C:/Program Files/2020.1.17f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-        <HintPath>D:/unity projects/ARFoundationTutorial/Library/PackageCache/com.unity.ext.nunit@1.0.5/net35/unity-custom/nunit.framework.dll</HintPath>
+        <HintPath>D:/unity projects/AlienDance_ARFoundation/Library/PackageCache/com.unity.ext.nunit@1.0.5/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
         <HintPath>C:/Program Files/2020.1.17f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
@@ -614,19 +614,19 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.XR.ARSubsystems.csproj">
-      <Project>{e6fff792-3084-9640-9c41-e8bd0402d04e}</Project>
+      <Project>{7254adc2-a87d-609c-2df5-f937b822ae26}</Project>
       <Name>Unity.XR.ARSubsystems</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.XR.Management.csproj">
-      <Project>{ebb4646e-2a9b-c985-6fe5-b3f307313a28}</Project>
+      <Project>{bc6d0c3a-e12b-0039-e2d2-98abeaf5c2ba}</Project>
       <Name>Unity.XR.Management</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.UI.csproj">
-      <Project>{bb867546-f6d4-0f9f-55cf-7fc9bf36626d}</Project>
+      <Project>{dcda776a-397f-ff08-d8f1-e8318e203ea0}</Project>
       <Name>UnityEditor.UI</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.csproj">
-      <Project>{b2647eb9-beff-3b2f-7057-017b36524138}</Project>
+      <Project>{0f6e1b68-a2a3-8f9f-71a2-9faf251adeb9}</Project>
       <Name>UnityEngine.UI</Name>
     </ProjectReference>
   </ItemGroup>

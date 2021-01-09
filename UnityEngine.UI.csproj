@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{b2647eb9-beff-3b2f-7057-017b36524138}</ProjectGuid>
+    <ProjectGuid>{0f6e1b68-a2a3-8f9f-71a2-9faf251adeb9}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>UnityEngine.UI</AssemblyName>
@@ -36,6 +36,8 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="C:\Program Files\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.ugui\Runtime\UI\Core\VertexModifiers\Shadow.cs" />
+     <Compile Include="C:\Program Files\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.ugui\Runtime\UI\Core\Layout\ContentSizeFitter.cs" />
      <Compile Include="C:\Program Files\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.ugui\Runtime\UI\Core\Layout\CanvasScaler.cs" />
      <Compile Include="C:\Program Files\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.ugui\Runtime\UI\Core\IMaskable.cs" />
      <Compile Include="C:\Program Files\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.ugui\Runtime\UI\Core\Utility\VertexHelper.cs" />
@@ -51,7 +53,6 @@
      <Compile Include="C:\Program Files\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.ugui\Runtime\UI\Core\Image.cs" />
      <Compile Include="C:\Program Files\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.ugui\Runtime\UI\Core\Layout\GridLayoutGroup.cs" />
      <Compile Include="C:\Program Files\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.ugui\Runtime\UI\Core\Utility\ObjectPool.cs" />
-     <Compile Include="C:\Program Files\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.ugui\Runtime\UI\Core\Layout\ContentSizeFitter.cs" />
      <Compile Include="C:\Program Files\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.ugui\Runtime\UI\Core\ColorBlock.cs" />
      <Compile Include="C:\Program Files\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.ugui\Runtime\UI\Core\Layout\LayoutElement.cs" />
      <Compile Include="C:\Program Files\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.ugui\Runtime\EventSystem\Raycasters\PhysicsRaycaster.cs" />
@@ -66,7 +67,6 @@
      <Compile Include="C:\Program Files\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.ugui\Runtime\UI\Core\Layout\ILayoutElement.cs" />
      <Compile Include="C:\Program Files\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.ugui\Runtime\UI\Core\Mask.cs" />
      <Compile Include="C:\Program Files\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.ugui\Runtime\EventSystem\Raycasters\BaseRaycaster.cs" />
-     <Compile Include="C:\Program Files\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.ugui\Runtime\UI\Core\VertexModifiers\Shadow.cs" />
      <Compile Include="C:\Program Files\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.ugui\Runtime\UI\Core\FontData.cs" />
      <Compile Include="C:\Program Files\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.ugui\Runtime\UI\Core\Graphic.cs" />
      <Compile Include="C:\Program Files\2020.1.17f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.ugui\Runtime\UI\Core\CanvasUpdateRegistry.cs" />
@@ -315,7 +315,7 @@
         <HintPath>C:/Program Files/2020.1.17f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-        <HintPath>D:/unity projects/ARFoundationTutorial/Library/PackageCache/com.unity.ext.nunit@1.0.5/net35/unity-custom/nunit.framework.dll</HintPath>
+        <HintPath>D:/unity projects/AlienDance_ARFoundation/Library/PackageCache/com.unity.ext.nunit@1.0.5/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
         <HintPath>C:/Program Files/2020.1.17f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>

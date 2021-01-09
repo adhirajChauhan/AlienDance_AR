@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{ee4d3905-f88b-52c1-4f02-abefac74ff9f}</ProjectGuid>
+    <ProjectGuid>{4a729101-1f15-ea9f-b895-2164a3f0e572}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>LeanTouch</AssemblyName>
@@ -265,7 +265,7 @@
         <HintPath>C:/Program Files/2020.1.17f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-        <HintPath>D:/unity projects/ARFoundationTutorial/Library/PackageCache/com.unity.ext.nunit@1.0.5/net35/unity-custom/nunit.framework.dll</HintPath>
+        <HintPath>D:/unity projects/AlienDance_ARFoundation/Library/PackageCache/com.unity.ext.nunit@1.0.5/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
         <HintPath>C:/Program Files/2020.1.17f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
@@ -615,15 +615,15 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="LeanCommon.csproj">
-      <Project>{e6a65fd0-cb5b-ddbf-bcaa-d78b09721483}</Project>
+      <Project>{7de6374f-7121-eeed-bd94-0cb653b4dcd8}</Project>
       <Name>LeanCommon</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.UI.csproj">
-      <Project>{bb867546-f6d4-0f9f-55cf-7fc9bf36626d}</Project>
+      <Project>{dcda776a-397f-ff08-d8f1-e8318e203ea0}</Project>
       <Name>UnityEditor.UI</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.csproj">
-      <Project>{b2647eb9-beff-3b2f-7057-017b36524138}</Project>
+      <Project>{0f6e1b68-a2a3-8f9f-71a2-9faf251adeb9}</Project>
       <Name>UnityEngine.UI</Name>
     </ProjectReference>
   </ItemGroup>
